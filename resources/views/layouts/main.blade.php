@@ -3,6 +3,7 @@
 <head>    
     @include('elements.thirdparty.google.tagmanager')
     <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     @if( strpos($_SERVER['REQUEST_URI'],'coupon-detail') !== FALSE )
         <meta name="robots" content="noindex, noarchive">
