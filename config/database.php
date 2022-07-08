@@ -41,7 +41,7 @@ return [
             'database' => 'development_db_master',
             'port'	   => env('DB_PORT'),
             'username' => 'bogo_developer',
-            'password' => '6qmfFtepLLVDLKneZ3eyDqJu66kPYasdasd492EwUs52nV9u',
+            'password' => '6qmfFtepLLVDLKneZ3eyDqJu66kPYasdasd492EwUs52nV9u1',
             'charset'  => 'utf8',
             'prefix'   => '',
             'schema'   => 'public',
